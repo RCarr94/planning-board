@@ -50,7 +50,7 @@ export default function MarketingPage() {
         Collaborate, manage projects, and reach new productivity peaks. From high rises to the home office, the way your team works is unique - accomplish it all with PB.
       </div>
       <Button className='mt-6' size='lg' asChild>
-        <Link href='/'>
+        <Link href='/sign-up'>
           Get PB for free
         </Link>
       </Button>
